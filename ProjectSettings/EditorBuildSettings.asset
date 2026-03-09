@@ -14,10 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Grade 6 L1/Scenes/Cells 2.unity
     guid: 70a1ecbad83906d4082889519cedb2d8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Grade 6 L1/Scenes/Cells 3.unity
     guid: 72d3312243a8dac4ab56bc0bd25cb0a8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Grade 6 L1/Scenes/Cells 4.unity
     guid: 05c965b9da96d464aad62c367fee670c
   m_configObjects:

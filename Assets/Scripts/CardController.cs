@@ -15,6 +15,7 @@ public class CardController : MonoBehaviour, IPointerClickHandler
     public TextMeshProUGUI frontKeyword;
 
     [Header("BACK")]
+        public GameObject bigBack;
     public GameObject backSide;
     public Image backImage;
     public TextMeshProUGUI backInfo;
@@ -250,7 +251,11 @@ public class CardController : MonoBehaviour, IPointerClickHandler
         // Swap sides
         isFlipped = !isFlipped;
         if (frontKeyword != null) frontKeyword.gameObject.SetActive(!isFlipped);
-        if (backSide != null) backSide.SetActive(isFlipped);
+        if (backSide != null) 
+        {
+            backSide.SetActive(isFlipped);
+            bigBack.SetActive(isFlipped);
+        }
 
         // =====================================================
         // 🔊 POST-FLIP / DEFINITION SOUND (schedule, front->back only)
