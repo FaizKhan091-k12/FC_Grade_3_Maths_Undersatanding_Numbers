@@ -1457,7 +1457,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3245,7 +3245,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3860,7 +3860,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b3bf6c4178834e242a4639ae6e21e7b4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0edafb0fbbeaf124690e0be816f589c3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5478,7 +5478,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -8686,14 +8686,14 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  keywordSound: {fileID: 8300000, guid: ebcc624b627301e4dad9725f851e3dcf, type: 3}
+  keywordSound: {fileID: 8300000, guid: 952da1ccc329b9d47ad6ec0b60cb9849, type: 3}
   keywordVolume: 0.9
   flipSound: {fileID: 8300000, guid: 436d275c6faaa5c4d8d9dadec7f14a11, type: 3}
   flipVolume: 1
   playBothSimultaneously: 0
   playFlipSoundAfterAnimation: 0
   extraDelayBeforeFlipSound: 0
-  definitionSound: {fileID: 8300000, guid: 175645c8a22ca5849a1bdd99762353be, type: 3}
+  definitionSound: {fileID: 8300000, guid: 4f89e45d15e16c24e8f2cb74c65f376f, type: 3}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0
 --- !u!114 &3555257644208032473
@@ -11523,7 +11523,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -11834,7 +11834,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -12485,7 +12485,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: Substance
+      value: Order
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -12733,7 +12733,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: A material made of only one kind of thing.
+      value: The correct sequence in which numbers follow one another.
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -13525,7 +13525,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: Separation
+      value: Numeral
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -13649,11 +13649,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 472.03
+      value: 542.99
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 389.616
+      value: 276.525
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_LocalScale.x
@@ -13789,7 +13789,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: The process of taking apart the parts of a mixture.
+      value: The symbol used to show a number, such as 36 or 100.
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -16177,7 +16177,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 39e4afe98ae4a734a85eeda5be03be9f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e19f9332204b3ac4dac306e4ff2b05a7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17544,14 +17544,14 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  keywordSound: {fileID: 8300000, guid: 689ace76355b65a498d9f3d56a4ee2a0, type: 3}
+  keywordSound: {fileID: 8300000, guid: 717fdf15d837e4546b62bee3e5ccf76c, type: 3}
   keywordVolume: 0.9
   flipSound: {fileID: 8300000, guid: 436d275c6faaa5c4d8d9dadec7f14a11, type: 3}
   flipVolume: 1
   playBothSimultaneously: 0
   playFlipSoundAfterAnimation: 0
   extraDelayBeforeFlipSound: 0
-  definitionSound: {fileID: 8300000, guid: 0df3e97477cdfdb4bb3c8898e387795a, type: 3}
+  definitionSound: {fileID: 8300000, guid: b215d4271a8833140a5031d48bff7469, type: 3}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0
 --- !u!82 &9160167724558740584

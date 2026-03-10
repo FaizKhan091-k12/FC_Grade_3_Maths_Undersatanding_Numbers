@@ -527,9 +527,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: 'Homogeneous
-
-        Mixture'
+      value: Forward Counting
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -638,11 +636,11 @@ PrefabInstance:
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: keywordSound
       value: 
-      objectReference: {fileID: 8300000, guid: 3910d9f4206744a42a4b9902e8ea8179, type: 3}
+      objectReference: {fileID: 8300000, guid: 6dab66b91b216dd408bb57339bf2be8e, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: definitionSound
       value: 
-      objectReference: {fileID: 8300000, guid: bc593e31f38fc83478e5ea4f398743dd, type: 3}
+      objectReference: {fileID: 8300000, guid: 7a35d4de6cd2d0843a98c0f104ceeaf4, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: delayBeforeFlipAnimation
       value: 2
@@ -789,7 +787,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: "A mixture that looks \nthe same all through."
+      value: Saying numbers in order, from a smaller number to a bigger number.
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -1020,7 +1018,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2385,9 +2383,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: 'Heterogeneous
-
-        Mixture'
+      value: Backward Counting
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -2500,11 +2496,11 @@ PrefabInstance:
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: keywordSound
       value: 
-      objectReference: {fileID: 8300000, guid: 4aff07c9d16a124418515608bcd494d4, type: 3}
+      objectReference: {fileID: 8300000, guid: c43678fa65706c746b68c0dd97ac77c7, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: definitionSound
       value: 
-      objectReference: {fileID: 8300000, guid: d76d519811d20bc45a984b6b6f4c4560, type: 3}
+      objectReference: {fileID: 8300000, guid: 29492d9edfbb0bc4d82544585abfba22, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: delayBeforeFlipAnimation
       value: 2
@@ -2531,11 +2527,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 510
+      value: 544.99
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 485
+      value: 517.67
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_LocalScale.x
@@ -2555,7 +2551,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 121
+      value: 133.11
       objectReference: {fileID: 0}
     - target: {fileID: 5975330814705765194, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_Pivot.x
@@ -2651,7 +2647,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: A mixture where you can see different parts.
+      value: Saying numbers in reverse order, from a bigger number to a smaller number.
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -4607,7 +4603,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6495,7 +6491,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -11034,7 +11030,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -11857,7 +11853,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -12329,7 +12325,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: Mixture
+      value: Number Name
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -12389,11 +12385,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2966443533088061221, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.x
-      value: -0.0000038146973
+      value: -17.156
       objectReference: {fileID: 0}
     - target: {fileID: 2966443533088061221, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0.000011444092
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2966443533088061221, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -12458,11 +12454,11 @@ PrefabInstance:
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: keywordSound
       value: 
-      objectReference: {fileID: 8300000, guid: 21f73a81f7cfa7b42a4d3eee8af612be, type: 3}
+      objectReference: {fileID: 8300000, guid: 34ef63fd3218fa54fb8cce7a93723195, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: definitionSound
       value: 
-      objectReference: {fileID: 8300000, guid: 432691cef86003f4e824845b111b5fc0, type: 3}
+      objectReference: {fileID: 8300000, guid: 8b5291a538fe85d489e57cbc42047d09, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: delayBeforeFlipAnimation
       value: 2
@@ -12609,9 +12605,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: 'Two or more substances
-
-        mixed together.'
+      value: The word form of a number, such as forty-two or ninety.
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -12801,7 +12795,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e422d767e9747254180904121c97c37b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 093994c5dd13fd14f906a2ba7802f2ba, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12826,7 +12820,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -13263,7 +13257,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 49aba25823a3def4f9482cb7260552ec, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dfd1770bdc7168844bb031cbf5146982, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14911,7 +14905,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 07f7f541b95671f49a535ab233803160, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 005ed2f6891b0ca40989759919cdca54, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17517,7 +17511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.05540227, g: 0.7830189, b: 0.7830189, a: 1}
+  m_Color: {r: 0.8679245, g: 0.28248486, b: 0.43171453, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
